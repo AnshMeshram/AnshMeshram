@@ -13,7 +13,7 @@ I'm an aspiring engineer who loves solving real-world problems using code. From 
 - 🔭 Currently working on: Spotify Clone, Gesture Vocalizer, Onboard EV Charger project
 - 🌱 Learning: Next.js, TypeScript, and Deep Learning fundamentals
 - 💬 Ask me about: JavaScript, React, Python, Node.js, Embedded Systems
-- 📫 Reach me at: [anshmeshram2003@gmail.com](mailto:anshmeshram2003@gmail.com)
+- 📫 Reach me at: [anshmeshram2003@gmail.com](mailto:anshmeshram2004@gmail.com)
 - 🧑‍💼 Resume: [View Here](#) <!-- Add your hosted resume link -->
 
 ---
