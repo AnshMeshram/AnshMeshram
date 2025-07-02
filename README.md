@@ -1,19 +1,19 @@
 # 👋 Hi there, I'm Ansh Meshram!
 
-🎓 B.Tech student in Instrumentation Engineering | COEP  
-💻 Passionate Full-Stack Web Developer | JavaScript | React | Node.js  
-🤖 Tech Explorer | AI/ML Enthusiast | Open-Source Contributor
+🎓 B.Tech in Instrumentation Engineering | COEP  
+💻 Full-Stack Developer | JavaScript | React | Node.js  
+🤖 AI/ML Explorer | Embedded Systems Enthusiast | Open Source Contributor
 
 ---
- 
+
 ## 🧠 About Me
 
-I'm an aspiring engineer who loves solving real-world problems using code. From building responsive web apps to experimenting with machine learning models and automation, I'm always eager to learn and create.
+I'm a curious and driven developer passionate about solving real-world problems through code. Whether it's building dynamic full-stack apps, experimenting with ML models, or creating smart embedded systems — I love learning by doing.
 
-- 🔭 Currently working on: Spotify Clone, Gesture Vocalizer, Onboard EV Charger project
-- 🌱 Learning: Next.js, TypeScript, and Deep Learning fundamentals
-- 💬 Ask me about: JavaScript, React, Python, Node.js, Embedded Systems
-- 🧑‍💼 Resume: [View Here](#) <!-- Add your hosted resume link -->
+- 🔭 Currently working on: **Spotify Clone**, **Gesture Vocalizer**, **Onboard EV Charger**
+- 🌱 Learning: **Next.js**, **TypeScript**, and **Deep Learning Fundamentals**
+- 💬 Ask me about: **JavaScript**, **React**, **Python**, **Node.js**, **Embedded C**
+- 📄 Resume: [View Here](#) <!-- Add your actual hosted resume link -->
 
 ---
 
@@ -25,7 +25,7 @@ I'm an aspiring engineer who loves solving real-world problems using code. From 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
-**Backend & DB:**  
+**Backend & Databases:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 **Tools & Platforms:**  
@@ -44,31 +44,34 @@ I'm an aspiring engineer who loves solving real-world problems using code. From 
 
 ## 🏆 Achievements
 
-- ✅ **Hacktoberfest 2023** Finisher
-- 🔌 Built a Gesture Vocalizer for speech assistance using Arduino
-- 🛠️ Developed a Binary Batch Distillation Column SCADA interface (Pilot Plant)
-- 🌐 Published multiple responsive web apps using React + Tailwind
+- 🎯 Completed **Hacktoberfest 2023**
+- ✋ Built a **Gesture Vocalizer** for speech-assistive communication
+- ⚙️ Developed a **Binary Batch Distillation SCADA** for pilot plant interfacing
+- 🎨 Published several responsive web applications using **React + TailwindCSS**
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🎵 Spotify Clone](https://github.com/AnshMeshram/spotify-clone) | A full-featured UI clone of the Spotify web player. | React, Tailwind |
-| [🧠 AI Summarizer](#) | A document and handwriting summarizer using Flask + OCR + JS | Python, Flask, Bootstrap |
-| [✋ Gesture Vocalizer](#) | Converts hand gestures to speech for assistive tech use | Arduino, Flex Sensors |
-| [⚡ Onboard EV Charger](#) | 1.5 kW AC-DC charger design for 2/3-wheelers | Hardware, Simulation |
+| 🛠️ Project | 🚀 Description | 💻 Tech Stack |
+|------------|----------------|---------------|
+| [🎵 Spotify Clone](https://github.com/AnshMeshram/spotify-clone) | A full-featured UI clone of Spotify’s web player | React, TailwindCSS |
+| 🧠 AI Summarizer | OCR-based summarizer for documents & handwriting | Python, Flask, Bootstrap |
+| ✋ Gesture Vocalizer | Converts hand gestures to speech using flex sensors | Arduino, Embedded C |
+| ⚡ Onboard EV Charger | 1.5kW AC-DC charger design for 2/3-wheelers | Hardware, MATLAB/Simulink |
+| 📉 Pokémon Price Tracker | Real-time chart of Pokémon trading card prices | React, Chart.js, API Integration |
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshmeshram/)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/AnshMeshram)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshmeshram/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/AnshMeshram)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:anshmeshram2003@gmail.com)
 
 ---
 
 > 🚀 *"Building things that help people — one project at a time."*
+
+---
 
