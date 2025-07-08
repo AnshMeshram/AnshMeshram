@@ -6,11 +6,11 @@
 
 ## 🧠 About Me
 
+I'm an aspiring engineer who loves solving real-world problems using code. From building responsive web apps to experimenting with machine learning models and automation, I'm always eager to learn and create.
+
 🔭 Currently working on:  
-- Spotify Clone 🎵  
 - Pokémon Card Price Tracker 📉  
 - Real-Time Gesture Vocalizer ✋🔊  
-- EV Charger Interface ⚡
 
 🌱 Learning: `Next.js`, `TypeScript`, `Deep Learning`  
 💬 Ask me about: `JavaScript`, `React`, `Python`, `Node.js`, `Embedded C`  
