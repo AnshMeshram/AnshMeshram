@@ -1,9 +1,5 @@
 # 👋 Hi there, I'm Ansh Meshram!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Passionate+Full-Stack+Developer;AI%2FML+Explorer+%7C+COEP;Loves+building+with+React+%7C+Node.js)](https://github.com/AnshMeshram)
-
----
-
 ## 🧠 About Me
 
 I'm an aspiring engineer who loves solving real-world problems using code. From building responsive web apps to experimenting with machine learning models and automation, I'm always eager to learn and create.
