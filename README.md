@@ -85,8 +85,8 @@ I'm an aspiring engineer who loves solving real-world problems using code. From 
 
 ## 🏆 GitHub Trophies
 
-<!-- Optimized: Added caching for performance -->
-![](https://github-profile-trophy.vercel.app/?username=AnshMeshram&theme=darcula&no-frame=false&no-bg=false&margin-w=4&no-cache=false)
+<!-- Optimized: Using default caching for performance -->
+![](https://github-profile-trophy.vercel.app/?username=AnshMeshram&theme=darcula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
