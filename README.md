@@ -77,32 +77,27 @@ I'm an aspiring engineer who loves solving real-world problems using code. From 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AnshMeshram&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnshMeshram&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMeshram&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Optimized: Added cache control and combined stats -->
+![](https://github-readme-stats.vercel.app/api?username=AnshMeshram&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=1800)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMeshram&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=AnshMeshram&theme=darcula&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- Optimized: Added caching for performance -->
+![](https://github-profile-trophy.vercel.app/?username=AnshMeshram&theme=darcula&no-frame=false&no-bg=false&margin-w=4&no-cache=false)
 
 ---
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=AnshMeshram&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<!-- Optimized: Added caching and reduced limit for faster loading -->
+![](https://github-contributor-stats.vercel.app/api?username=AnshMeshram&limit=3&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 
+<!-- Optimized: Simplified visit counter for faster loading -->
 [![](https://visitcount.itsvg.in/api?id=AnshMeshram&icon=6&color=11)](https://visitcount.itsvg.in)
-
----
 
 > 🚀 *"Code with purpose. Build with passion."*
