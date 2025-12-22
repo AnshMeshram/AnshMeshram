@@ -77,27 +77,27 @@ I'm an aspiring engineer who loves solving real-world problems using code. From 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AnshMeshram&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnshMeshram&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMeshram&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AnshMeshram&theme=nightowl&hide_border=false&include_all_commits=true)
+![](https://nirzak-streak-stats.vercel.app/?user=AnshMeshram&theme=nightowl&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMeshram&theme=nightowl&layout=compact)
+
+---
+
+## 📈 GitHub Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshMeshram&theme=react-dark&hide_border=false)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=AnshMeshram&theme=darcula&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AnshMeshram&theme=darkhub&no-frame=true&margin-w=10)
 
 ---
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=AnshMeshram&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 
