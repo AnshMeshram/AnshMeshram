@@ -6,7 +6,7 @@ I'm an aspiring engineer who loves solving real-world problems using code. From 
 
 🔭 Currently working on:  
 - Pokémon Card Price Tracker 📉  
-- Real-Time Gesture Vocalizer ✋🔊  
+- Skin-Disease-Detection 🕵️  
 
 🌱 Learning: `Next.js`, `TypeScript`, `Deep Learning`  
 💬 Ask me about: `JavaScript`, `React`, `Python`, `Node.js`, `Embedded C`  
